@@ -80,6 +80,10 @@ header {
   color: var(--accent-color);
 }
 
+address {
+  font-style: normal;
+}
+
 /* FOOTER */
 
 .footer-address {
